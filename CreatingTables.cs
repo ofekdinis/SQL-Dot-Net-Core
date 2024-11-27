@@ -5,7 +5,7 @@ using Microsoft.Data.SqlClient;
 using Serilog;
 
 namespace TableCreation
-{
+{//test
     class CreatingTables
     {//sql part a
         private const string masterConnectionString = "Server=localhost,1433;User Id=sa;Password=YourStrong\\!Password;TrustServerCertificate=True;";
